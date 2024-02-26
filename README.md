@@ -2,13 +2,14 @@
 
 This is the repository that contains source code for the project page of [SDDG](https://tonyckc.github.io/SDDG/).
 
-If you find CopyRNeRF useful for your work please cite:
+If you find SDDG useful for your work please cite:
 ```
-@inproceedings{luo2023copyrnerf,
-  author    = {Ziyuan Luo and Qing Guo and Ka Chun Cheung and Simon See and Renjie Wan},
-  title     = {Copy{RN}e{RF}: Protecting the CopyRight of Neural Radiance Fields},
-  booktitle   = {Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  year      = {2023},
+@article{kecheng2024ijcv,
+  title={Domain Generalization with Small Data},
+  author={Kecheng Chen, Elena Gal, Hong Yan, and Haoliang Li},
+  journal={International Journal of Computer Vision},
+  year={2024},
+  publisher={Springer}
 }
 ```
 
