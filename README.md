@@ -1,6 +1,6 @@
 # OCC-NeRF
 
-This is the repository that contains source code for the project page of [CopyRNeRF](https://luo-ziyuan.github.io/copyrnerf/).
+This is the repository that contains source code for the project page of [SDDG](https://tonyckc.github.io/SDDG/).
 
 If you find CopyRNeRF useful for your work please cite:
 ```
