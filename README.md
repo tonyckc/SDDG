@@ -1,4 +1,4 @@
-# OCC-NeRF
+# SDDG
 
 This is the repository that contains source code for the project page of [SDDG](https://tonyckc.github.io/SDDG/).
 
